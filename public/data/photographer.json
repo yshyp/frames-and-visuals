@@ -1,0 +1,29 @@
+{
+  "name": "Vaisakh Y P",
+  "brand": "FramesandVisualsbyYsh",
+  "role": "Photographer | Visual Storyteller",
+  "tagline": "I capture moments, details and stories through a frame.",
+  "categories": [
+    "Wildlife",
+    "Macro",
+    "Nature",
+    "Travel",
+    "Visual Stories"
+  ],
+  "location": "Kerala, India",
+  "bio": [
+    "I’m Vaisakh Y P, a photographer and visual storyteller based in Kerala, India.",
+    "Through FramesandVisualsbyYsh, I explore wildlife, nature, macro photography, travel and the small details that often go unnoticed.",
+    "My approach is simple — slow down, observe, and capture the moment as it truly feels."
+  ],
+  "socials": {
+    "instagram": "frames_by_ysh",
+    "instagramUrl": "https://instagram.com/frames_by_ysh",
+    "youtube": "FramesandVisualsbyYsh",
+    "youtubeUrl": "https://youtube.com/@FramesandVisualsbyYsh",
+    "facebook": "FramesandVisualsbyYsh",
+    "facebookUrl": "https://facebook.com",
+    "email": "contact@framesbyysh.com"
+  },
+  "portrait": "/images/photographer-vaisakh.jpg"
+}
